@@ -1,7 +1,8 @@
 # 파이썬 기반의 도서관 출납 서비스
 
 ### 사전에 구상한 도서관 출납 서비스 설계 다이어그램
-![도서 대출 시스템 0 1](https://github.com/user-attachments/assets/482d0d41-a835-4330-9b81-06f84effc69b)
+![도서 대출 시스템](https://github.com/user-attachments/assets/591bb57f-288a-4350-9610-58111f5f5181)
+
 
 #### 프로젝트 : 파이썬 기반의 도서관 출납 서비스
 #### 기한 : 7.22 ~ 7.25
