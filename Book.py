@@ -38,7 +38,7 @@ class Book:
             elif menu == "1":
                 books.addBook()
             elif menu == "2":
-                books.chageBook()
+                books.changeBook()
             elif menu == "3":
                 books.deleteBook()
             elif menu == "4":
